@@ -36,12 +36,12 @@
             <div class="col-12 d-flex align-content-center align-items-center justify-content-center h-100">
    
             
-                <form action="default_qr.php" method="post" enctype="multipart/form-data" class="w-100">
+                <form action="default_qr.php" method="post" enctype="multipart/form-data" class="w-100" autocomplete="off">
 
                 <div class="row mt-5">
                   <div class="col-12 col-md-10">
                     <div class="form-group">
-                      <input type="text" class="form-control" id="url" name="url">
+                      <input type="text" class="form-control" id="url" name="url" ">
                     </div>                
                   </div>
                   <div class="col-12 col-md-2">
