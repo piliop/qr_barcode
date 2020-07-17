@@ -41,11 +41,11 @@
                 <div class="row mt-5">
                   <div class="col-12 col-md-10">
                     <div class="form-group">
-                      <input type="text" class="form-control" id="url" name="url" tabindex="0">
+                      <input type="text" class="form-control" id="url" name="url" tab-index="0">
                     </div>                
                   </div>
                   <div class="col-12 col-md-2">
-                      <input type="submit" class="btn btn-success" value="Δημιουργία" name="formurl" id="formurl" tabindex="1">
+                      <input type="submit" class="btn btn-success" value="Δημιουργία" name="formurl" id="formurl" tab-index="1">
                       <input type="hidden" name="qr" value="qr">
                     </div>
                 </div>                      
