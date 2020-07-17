@@ -36,16 +36,16 @@
             <div class="col-12 d-flex align-content-center align-items-center justify-content-center h-100">
    
             
-                <form action="default_qr.php" method="post" enctype="multipart/form-data" class="w-100" autocomplete="off">
+                <form action="default_qr.php" method="post" enctype="multipart/form-data" class="w-100">
 
                 <div class="row mt-5">
                   <div class="col-12 col-md-10">
                     <div class="form-group">
-                      <input type="text" class="form-control" id="url" name="url" ">
+                      <input type="text" class="form-control" id="url" name="url" tabindex="0">
                     </div>                
                   </div>
                   <div class="col-12 col-md-2">
-                      <input type="submit" class="btn btn-success" value="Δημιουργία" name="formurl" id="formurl">
+                      <input type="submit" class="btn btn-success" value="Δημιουργία" name="formurl" id="formurl" tabindex="1">
                       <input type="hidden" name="qr" value="qr">
                     </div>
                 </div>                      

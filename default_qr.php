@@ -22,7 +22,7 @@
           <?php } ?>
           <div class="row mt-5">
             <div class="col-12 d-flex align-content-center align-items-center justify-content-center h-100">
-              <a href="index.php" class="btn btn-info"> << Πίσω</a>
+              <a href="index.php" class="btn btn-info" tabindex="0"> << Πίσω</a>
             </div>
           </div>
         </div>
