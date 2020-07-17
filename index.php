@@ -41,7 +41,7 @@
                 <div class="row mt-5">
                   <div class="col-12 col-md-10">
                     <div class="form-group">
-                      <input type="text" class="form-control" id="url" name="url" tab-index="0" autofocus>
+                      <input type="text" class="form-control" id="url" name="url" tab-index="0" autofocus autocomplete="off">
                     </div>                
                   </div>
                   <div class="col-12 col-md-2">
