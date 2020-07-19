@@ -1,3 +1,2 @@
 # qr_barcode
-
-print Qr barcode
+print Qr barcodes using Google Api
